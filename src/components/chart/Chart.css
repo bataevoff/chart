@@ -1,0 +1,11 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.wrap {
+  border: 1px solid #E8EAED;
+  border-radius: 20px;
+  padding: 24px;
+}
+

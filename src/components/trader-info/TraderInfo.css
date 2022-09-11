@@ -1,0 +1,35 @@
+.trader-info-div {
+  display: flex;
+  justify-content: space-between;
+}
+
+.trader-field-name {
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+  margin-bottom: 8px;
+}
+
+.trader-value {
+  font-size: 28px;
+  line-height: 36px;
+  font-weight: 700;
+}
+
+.button {
+  color: white;
+  background-color: #8A24F3;
+  width: 225px;
+  padding: 16px 20px 16px 20px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.button:hover{
+  background-color: #701BC8;
+}
+
+.button:active {
+  background-color: #4F118F;
+}

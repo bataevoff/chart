@@ -1,0 +1,41 @@
+.trader {
+  display: flex;
+  margin-bottom: 40px;
+  cursor: pointer;
+  width: 250px;
+  height: 100px;
+  justify-content: start;
+  align-items: center;
+  margin-left: 24px;
+}
+
+.img-div img {
+  border-radius: 50%;
+  height: 48px;
+  width: 48px;
+}
+
+.trader-info {
+  margin-left: 16px;
+}
+
+.trader-name, .trader-profit {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 28px;
+  color: #080816;
+}
+
+.trader-profit {
+  color: #34B428;
+}
+
+.active {
+  border-radius: 25px;
+  background-color: #F5F7F9;
+}
+
+.trader-wrap {
+  width: 295px;
+  height: 100px;
+}
